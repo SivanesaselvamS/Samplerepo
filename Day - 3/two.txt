@@ -1,0 +1,3 @@
+day1 topic are introduction
+some other topic is language fundamendals
+last topic is control structure

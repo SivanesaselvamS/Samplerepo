@@ -1,0 +1,3 @@
+day1 topic are introduction
+some other topic is programming fundamendals
+End topic is control structure
